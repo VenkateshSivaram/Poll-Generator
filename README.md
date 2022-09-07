@@ -40,8 +40,10 @@ If you want to use `baseUrl` or `path` aliases within your `tsconfig`, you need 
 
 ## Project content
 <html>
+This project is developed with reference to the tutorial published by the YouTube channel - <a href="https://www.youtube.com/c/TheNetNinja">The Net Ninja</a>
+
 Free image credits. Thanks to:
 
-<a href="https://www.youtube.com/c/TheNetNinja">The Net Ninja</a>
+<a href="https://www.youtube.com/c/TheNetNinja">The Net Ninja</a><br>
 <a href="https://www.flaticon.com/free-icons/delete-button">flaticon.com</a>
 </html>
