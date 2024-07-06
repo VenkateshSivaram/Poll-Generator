@@ -1,5 +1,5 @@
 <header>   
-    <h1>
+    <h1> Polls
         <img src="./img/poll_ninja_logo.svg" alt="poll_ninja_logo">
     </h1>
 </header>
